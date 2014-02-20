@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.pipyapp.com/</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2012-06-01</lastmod>
+</url>
+<url>
+  <loc>http://www.pipyapp.com/features/</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2012-07-03</lastmod>
+</url>
+<url>
+  <loc>http://www.pipyapp.com/download/</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2012-06-01</lastmod>
+</url>
+<url>
+  <loc>http://www.pipyapp.com/support/</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2012-06-01</lastmod>
+</url>
+</urlset>
